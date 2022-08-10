@@ -1,4 +1,4 @@
-# Noticias-candidatos-RESTAPI
+# Noticias Candidatos REST API
 
 Essa é uma simples REST API para ser consumida no projeto noticias-canditados-dashboard.
 
