@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 app.use(express.json());
 
+var cors = require('cors');
+app.use(cors());
+
 const xlsx = require('xlsx');
 
 const wb = xlsx.readFile('./dados.xlsx');

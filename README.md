@@ -42,6 +42,7 @@ http://localhost:3001/
 - [Next.js](https://nextjs.org/)
 - [Express](https://expressjs.com/)
 - [SheetJs](https://www.npmjs.com/package/xlsx/)
+- [Cors](https://expressjs.com/en/resources/middleware/cors.html/)
 
 
 
