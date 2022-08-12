@@ -29,11 +29,12 @@ npm run start
 http://localhost:3001/
 ```
 
+* Você receberá os dados passados pela API.
 
 
 ## Links
 
-- noticias-candidatos-dashboard Project: [https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/](https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/)
+- Este projeto utiliza uma front-end application para visualização dos dados, acesse: [https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/](https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/)
 
 
 
