@@ -40,7 +40,7 @@ http://localhost:3001/
 
 ## Criado com
 
-- [Next.js](https://nextjs.org/)
+- [Node.js](https://nodejs.org/pt-br/docs/)
 - [Express](https://expressjs.com/)
 - [SheetJs](https://www.npmjs.com/package/xlsx/)
 - [Cors](https://expressjs.com/en/resources/middleware/cors.html/)
