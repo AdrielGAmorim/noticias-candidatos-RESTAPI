@@ -20,7 +20,7 @@ Essa é uma simples REST API para ser consumida no projeto noticias-canditados-d
 * No VsCode com a pasta do projeto aberta, abra o console e digite:
 
 ```shell script
-npm run start
+npm run startserver
 ```
 
 * Em seguida, abra seu navegador, copie o endereço abaixo cole na area de endereço no seu navegador e aperte ENTER;
