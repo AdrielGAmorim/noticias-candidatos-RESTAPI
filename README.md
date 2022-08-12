@@ -23,7 +23,7 @@ Essa é uma simples REST API para ser consumida no projeto noticias-canditados-d
 npm run start
 ```
 
-* Em seguida, abra seu navegador, copie o endereço abaixo cole na area de endereço no seu navegador e aperte enter:
+* Em seguida, abra seu navegador, copie o endereço abaixo cole na area de endereço no seu navegador e aperte ENTER;
 
 ```
 http://localhost:3001/
