@@ -2,7 +2,7 @@
 
 Essa é uma simples REST API para ser consumida no projeto noticias-canditados-dashboard.
 
-
+<br />
 
 ## Para executar a API
 
@@ -12,6 +12,7 @@ Essa é uma simples REST API para ser consumida no projeto noticias-canditados-d
 
 * Node.js instalado.
 
+<br />
 
 ### Execução
 
@@ -31,12 +32,13 @@ http://localhost:3001/
 
 * Você receberá os dados passados pela API.
 
+<br />
 
 ## Links
 
 - Este projeto utiliza uma front-end application para visualização dos dados, acesse: [https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/](https://github.com/AdrielGAmorim/noticias-candidatos-dashboard/)
 
-
+<br />
 
 ## Criado com
 
@@ -45,7 +47,7 @@ http://localhost:3001/
 - [SheetJs](https://www.npmjs.com/package/xlsx/)
 - [Cors](https://expressjs.com/en/resources/middleware/cors.html/)
 
-
+<br />
 
 ## Author
 
