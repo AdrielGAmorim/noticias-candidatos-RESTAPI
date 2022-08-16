@@ -51,5 +51,4 @@ http://localhost:3001/
 
 ## Author
 
-- Adriel Amorim - [Portfolio](https://adrielgamorim.github.io/Portfolio/)
 - Adriel Amorim - [LinkedIn](https://www.linkedin.com/in/adrielamorim/)
