@@ -21,6 +21,12 @@ Essa é uma simples REST API para ser consumida no projeto noticias-canditados-d
 * No VsCode com a pasta do projeto aberta, abra o console e digite:
 
 ```shell script
+npm install
+```
+
+* E após as dependências forem instaladas, digite:
+
+```shell script
 npm run startserver
 ```
 
